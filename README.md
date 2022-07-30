@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PepperParker
+- 👀 I’m interested in making video games, and learning to program!
+- 🌱 I’m currently learning python/Ren'py.
+- 📫 You can email me pepperparkerwrites@gmail.com
